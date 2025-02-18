@@ -1,0 +1,3 @@
+/mnt/c/projects/labs_5/task1/build/CMakeFiles/main.dir
+/mnt/c/projects/labs_5/task1/build/CMakeFiles/edit_cache.dir
+/mnt/c/projects/labs_5/task1/build/CMakeFiles/rebuild_cache.dir

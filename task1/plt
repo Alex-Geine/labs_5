@@ -1,0 +1,13 @@
+set xlabel "Время [с]"
+set ylabel "Амплитуда [Вт]"
+
+set terminal png size 1024,1024
+
+set xrange[0:]
+
+
+set xzeroaxis
+set yzeroaxis
+
+set output 'out.png'
+plot "build/data.txt" using 1:2 with lines
